@@ -1,4 +1,4 @@
 import os
 os.system("chmod 777 RANDOM")
-os.system("git pul")
+os.system("git pull")
 os.system("./RANDOM")
